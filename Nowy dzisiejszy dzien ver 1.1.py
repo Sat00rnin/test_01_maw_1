@@ -1,0 +1,1 @@
+print("Dziś jest piątek w marcu 21.03.2025r.")
